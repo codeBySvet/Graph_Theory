@@ -1,5 +1,5 @@
 
-## Introduction
+# Introduction
 
 This repository is the third year project submission 
 for the module "Graph Theory" in the Software Development 
@@ -15,7 +15,7 @@ algorithem and the Graph Isomorphism problem.
 
 
 
-## Topics
+# Topics
 
 ### Heap sort
 Heap sort is a comparison-based sorting algorithem used on 
@@ -44,13 +44,13 @@ I discuss Graph Isomorphism in the context of:
 * Explanation of how graphs can be represented in data structures.
 * Python function implementing an algorithm to determine if two graphs are isomorphic or not.
 * Discussion of the computational complexity of the Graph Isomorphism Problem.
-## Tech Stack
+# Tech Stack
 
 **Code language:** Python
 
 **Platform:** Jupyter Notebook
 
-## Installation
+# Installation
 
 This project can be viewed directly through Github, or can be
 viewed locally. If you wish to do so locally, you will need
@@ -75,7 +75,7 @@ Python and Jupyter Notebook.
 
 ```
 
-## Run Locally
+# Run Locally
 
 Clone the project
 
@@ -96,26 +96,11 @@ Start the Jupyter Notebook
 ```
 
 
-## Introduction
-
-This repository is the third year project submission 
-for the module "Graph Theory" in the Software Development 
-course in ATU College. Graph theory is the study of graphs, 
-which are mathematical structures used to model relationships 
-between elements(objects). A graph consiste of one or more vertices which are connected by edges.
-
-The aim of this repository is to 
-investigate and discuss graph theory by taking a deep dive 
-into two aspects. The Heap sort sorting 
-algorithem and the Graph Isomorphism problem.
-
-
-
 
 ## Authors
 
 - [@codeBySvet](https://github.com/codeBySvet)
 
 
-![Logo](https://www.lyit.ie/Portals/_default/Skins/LYIT/Images/logo-ATu-letterkenny-mobile.png)
+![Logo](https://ibb.co/jbJMRVs)
 
