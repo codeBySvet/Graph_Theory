@@ -95,6 +95,51 @@ Start the Jupyter Notebook
   Jupyter Notebook
 ```
 
+# Reference
+
+The following references are also mentioned for each corresponding section throughout the notebooks.
+
+https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm
+
+https://www.youtube.com/watch?v=MtQL_ll5KhQ&t=10s
+
+https://coderslegacy.com/python/heap-sort-algorithm/ 
+
+https://coderslegacy.com/python/heap-sort-algorithm/
+
+https://medium.com/@rylanbauermeister/understanding-timsort-191c758a42f3
+
+https://www.programiz.com/dsa/selection-sort
+
+https://www.hackerearth.com/practice/notes/sorting-and-searching-algorithms-time-complexities-cheat-sheet/
+
+https://brilliant.org/wiki/heap-sort/
+
+https://www.geeksforgeeks.org/heap-sort/
+
+https://www.happycoders.eu/algorithms/heapsort/
+
+https://lamfo-unb.github.io/2019/04/21/Sorting-algorithms/
+
+https://towardsdatascience.com/what-is-graph-theory-and-why-should-you-care-28d6a715a5c2#:~:text=Graph%20Theory%20is%20ultimately%20the,moving%20parts%20of%20dynamic%20systems
+
+https://wikkihut.com/graph-data-structure/
+
+https://github.com/ianmcloughlin/graph-isomorphism/raw/main/graph_isomorphism.pdf
+
+https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemId=13508&itemFileId=31276
+
+https://en.wikipedia.org/wiki/Complexity_class
+
+https://www.sciencedirect.com/science/article/pii/S074771711300093X
+
+https://simple.wikipedia.org/wiki/P_versus_NP
+
+https://www.youtube.com/watch?v=ieHxZ_W57z0
+
+http://www.btechsmartclass.com/data_structures/graph-representations.html
+
+https://gist.github.com/tonicanada/5f689540d30e51a9837d660b801ef9cb
 
 
 ## Authors
@@ -102,5 +147,5 @@ Start the Jupyter Notebook
 - [@codeBySvet](https://github.com/codeBySvet)
 
 
-![Logo](https://ibb.co/jbJMRVs)
+![Logo](https://i.ibb.co/VJwSmH5/atu-logo-1.png)
 
